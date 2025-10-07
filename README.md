@@ -1,4 +1,4 @@
-# Pharmarack--Sales-Forecasting-using-Time-Series-Analysis-
+# Pharmarack Sales Forecasting using Time Series Analysis
 ## 📌 Project Overview  
 **- Analyze historical sales data** for different therapy categories.  
 **- Apply time series models** (Holt, Holt-Winters) to forecast sales.  
